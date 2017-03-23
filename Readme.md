@@ -1,6 +1,8 @@
-Variety-wise Daily Market Prices Data of Tomatoes
+Assignment - 1 
 
-Download the following datasets 
+VARIETY-WISE DAILY MARKET PRICES DATA OF TOMATOES
+
+Download the following datasets: 
 1. Variety Wise Daily Market Prices Data of Tomato-2016 https://data.gov.in/resources/variety-wise-daily-market-prices-data-tomato-2016/download
 
 2. Variety Wise Daily Market Prices Data of Tomato-2015 https://data.gov.in/resources/variety-wise-daily-market-prices-data-tomato-2015/download
